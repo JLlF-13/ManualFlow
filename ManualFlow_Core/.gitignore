@@ -1,0 +1,5 @@
+db.sqlite3
+media
+ManualFlow_Core/__pycache__
+manual_crud/__pycache__
+manual_crud/migrations/__pycache__
