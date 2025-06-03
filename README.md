@@ -53,6 +53,10 @@ SECRET_KEY='your_generated_secret_key'
 >
 > For now, the Database is sqlite3, but you can adapt it to your desire.
 
+> [!IMPORTANT]
+>
+> The instructions down here are to open the app locally.
+
 Now you can execute these commands:
 
 ```shell
