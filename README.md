@@ -55,7 +55,7 @@ SECRET_KEY='your_generated_secret_key'
 
 > [!IMPORTANT]
 >
-> The instructions down here are to open the app locally.
+> The instructions down here are to deploy the app locally.
 
 Now you can execute these commands:
 
